@@ -5,6 +5,7 @@ html {
     "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
 }
 ::selection {
+  background-color: #b3d4fc;
   text-shadow: none;
 }
 ul {
